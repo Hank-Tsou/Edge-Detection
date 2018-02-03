@@ -35,3 +35,6 @@
 >>> "use image 'Lenna.png' and auto threshold to compare with opencv function"
 
 >>> (d) The program will show original image, my result image and openCV result image.(output_Image_b)
+
+>>> ![image](https://user-images.githubusercontent.com/28382639/35772844-34e56638-08fa-11e8-8271-0b49bff2b1bd.png)
+
