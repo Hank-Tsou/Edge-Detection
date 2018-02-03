@@ -22,6 +22,8 @@
 
 >>> (d) The program will show the gray image and edge image. (output_Image_a)
 
+>>> ![image](https://user-images.githubusercontent.com/28382639/35772842-1c2cafc0-08fa-11e8-9d69-b59e27a92081.png)
+
 >> #### (B) Compare with openCV function [2_compare.py]
 >>> (a) Using the command prompt and direct to the file position. (my example)
 >>> <pre> >> [C:\Users\hank\Desktop\Computer Vision\Assignment_1\1-3]
