@@ -16,7 +16,7 @@ NOTE: The running time for this program is about 10 sec on macbook-pro
 ![image](https://user-images.githubusercontent.com/28382639/35772842-1c2cafc0-08fa-11e8-9d69-b59e27a92081.png)
 
 
-Useful link as below for implementation:
+Useful link for implementation:
 
 - [Image Filtering](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/4_Image_Filtering)
 - [Image Padding](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Core_Operation)
@@ -24,7 +24,8 @@ Useful link as below for implementation:
 - [Image Gradient](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/5_Image_Gradient)
 
 ## Code
-- [Canny Edge Detection Implementation](https://github.com/Hank-Tsou/Implement-Edge-Detection/blob/master/Canny_Edge_Detection.py)
+- [Canny Edge Detection](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/6_Canny_Edge_Detection)
+- [Implementation from scratch](https://github.com/Hank-Tsou/Implement-Edge-Detection)
 
 ## License
 
